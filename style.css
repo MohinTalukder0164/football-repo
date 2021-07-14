@@ -89,6 +89,8 @@ h3{
     height: 480px;
     padding-left: 60%;
     padding-bottom: 100%;
+    position: relative;
+    top: -500px;
 }
 .footer-img{
     align-items: center;
