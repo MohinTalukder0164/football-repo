@@ -27,13 +27,23 @@ h2{
     top: 200px;
 }
 .link-button {
-    padding: 10px 40px;
+    padding: 10px 24px;
     text-decoration: none;
     background-color: #E02C6D;
     color: white;
     line-height: 150px;
+   
+}
+.link-now{
+    padding: 10px 24px;
+    text-decoration: none;
+    background-color: #E02C6D;
+    color: white;
+    line-height: 150px;
+    margin-left: 2%;
     
 }
+
 .half-width{
     position: absolute;
     width: 500px;
@@ -59,11 +69,31 @@ h3{
     align-items: flex-start;
     padding: 20px;
     border: solid;
+    color: crimson;
     
 }   
 .players img{
     width: 330px;
     height: 474px;  
 }
-
-    
+.last-heading{
+    padding-right: 60%;
+    margin-left: 2%;
+}
+.text{
+    font-size: 50px;
+}   
+.images{
+    display: flex;
+    width: 350px;
+    height: 480px;
+    padding-left: 60%;
+    padding-bottom: 100%;
+}
+.footer-img{
+    align-items: center;
+    text-align: center;
+}
+.icon{
+    text-align: center;
+}
