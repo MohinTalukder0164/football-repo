@@ -80,6 +80,10 @@ h3{
     padding-right: 60%;
     margin-left: 2%;
 }
+.end{
+    position: relative;
+    top: -2200px;
+}
 .text{
     font-size: 50px;
 }   
